@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ramajana</h1>
-<h3 align="center">A 21 year old Computer Science Student</h3>
+<h3 align="center">A 22 year old Computer Science Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
