@@ -4,10 +4,8 @@
 <h3 align="center">A 22 year old Computer Science Student</h3>
 
 <h3 align="left">About Me</h3>
-<p align="justify">
-I am a creative deverloper. Ambitious, driven and willing to learn more by challenging myself.  Always looking for an opportunity 
-to do better. Using the programming aspect to let my creativity envolve and grow togehter with the urge to draw and deisgn.
-</p>
+<p text-align="justify"> I am a creative deverloper. Ambitious, driven and willing to learn more by challenging myself.  Always looking for an opportunity 
+to do better. Using the programming aspect to let my creativity envolve and grow togehter with the urge to draw and desIgn. </p>
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
