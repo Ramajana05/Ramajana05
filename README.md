@@ -23,6 +23,6 @@
 <a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ramajana05&color=black" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=ramajana05&color=brightgreen" alt="watching_count" />
 
 
