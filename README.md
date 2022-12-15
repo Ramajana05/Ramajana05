@@ -20,9 +20,8 @@
 <a href="https://www.linkedin.com/in/ramajana-s-0167b9212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/Ramajana05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/4q20oajm8theapfe7x9dyo9w2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/dhanushkadev" target="_blank"><img src=" alt="DEV.to"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ramajana05&color=brightgreen" alt="watching_count" />
 
 
