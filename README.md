@@ -1,13 +1,10 @@
 <link href="https://fonts.cdnfonts.com/css/agency-fb" rel="stylesheet">
-<style>
-@import url('https://fonts.cdnfonts.com/css/agency-fb');
-</style>
                 
 <h1 align="center">Hey, I'm Ramajana</h1>
 <h3 align="center">A 22 year old Computer Science Student</h3>
 
 <h3 align="left">About Me</h3>
-<p align="left" style="font-family: 'Agency FB', sans-serif">
+<p align="left" style="font-family: 'Agency FB', arial">
 I am a creative deverloper. Ambitious, driven and willing to learn more by challenging myself.  Always looking for an opportunity 
 to do better. Using the programming aspect to let my creativity envolve and grow togehter with the urge to draw and deisgn.
 </p>
