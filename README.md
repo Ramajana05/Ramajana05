@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Ramajana</h1>
 <h3 align="center">A 22 year old Computer Science Student</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About Me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ramajana-s-0167b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramajana skopljak" height="30" width="40" /></a>
-<a href="https://instagram.com/ramajana05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramajana05" height="30" width="40" /></a>
+I am a creative deverloper. Ambitious, driven and willing to learn more by challenging myself.  Always looking for an opportunity 
+to do better. Using the programming aspect to let my creativity envolve and grow togehter with the urge to draw and deisgn.
 </p>
 
 <h3 align="left">Languages</h3>
