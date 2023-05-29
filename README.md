@@ -1,7 +1,7 @@
 <link href="https://fonts.cdnfonts.com/css/agency-fb" rel="stylesheet">
                 
 <h1 align="center">Hey, I'm Ramajana</h1>
-<h3 align="center">A 22 year old Computer Science Student</h3>
+<h3 align="center">A 23 year old Computer Science Student</h3>
 
 <h3 align="left">About Me</h3>
 <p text-align="justify"> I am a creative deverloper. Ambitious, driven and willing to learn more by challenging myself.  Always looking for an opportunity 
