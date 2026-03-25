@@ -1,10 +1,7 @@
 
-# Hi, I'm Ramajana 👋
+# Hi, I'm Ramajana
 
-🎓 B.Sc. Applied Computer Science (Mobile Computing)  
-📍 Stuttgart, Germany  
-💡 Passionate about building creative, user-centered apps  
-
+I love building things that are not just functional, but **feel good to use**.
 ---
 
 ## 🚀 About Me
@@ -16,27 +13,9 @@
 
 ---
 
-## 🛠 Tech Stack
+## Featured Project
 
-**Mobile:**
-- Flutter (Dart)
-- Android (Kotlin / Java)
-
-**Backend & Data:**
-- JavaScript
-- SQL (MySQL, SQLite)
-- REST APIs
-
-**Tools:**
-- Git & GitHub
-- Android Studio, VS Code, IntelliJ
-- Azure, Jira, Confluence
-
----
-
-## 🌟 Featured Project
-
-### 🧭 Traveler – Where Gaming meets real life
+### Traveler – Where Gaming meets real life
 
 > A mobile app that connects real-world movement with a 3D digital experience.
 
@@ -51,18 +30,5 @@
 
 ## 📊 GitHub Stats
 
-![Ramajana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ramajana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramajana05&show_icons=true&theme=tokyonight)
 
----
-
-## 🌐 Connect with me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🧑‍💻 Portfolio: https://your-portfolio.com
-- 🎮 Twitch: https://twitch.tv/ramajana05
-
----
-
-## ✨ Fun Fact
-
-I love building things that are not just functional, but **feel good to use**.
