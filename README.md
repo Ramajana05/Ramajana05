@@ -1,5 +1,6 @@
 # Hi, I'm Ramajana 👋
 
+
 > I love building things that are not just functional, but **feel good to use**.
 
 ---
@@ -14,6 +15,7 @@
 
 ---
 
+
 ## 🚀 Tech Stack
 
 <p>
@@ -27,20 +29,17 @@
 - 🎮 **Unity VR Projects** – Interactive mechanics & game concepts  
 - 📱 **Flutter Apps** – Clean UI, scalable architecture  
 
-## 🌐 Connect with me
+## 📊 GitHub Insights
 
-<p align="left">
-  <a href="https://github.com/Ramajana05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.twitch.tv/ramajana05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramajana05&layout=compact&theme=tokyonight" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Ramajana05&show_icons=true&theme=tokyonight" height="150"/>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ramajana05&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+
+
+
 
