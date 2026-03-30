@@ -37,7 +37,7 @@
 </p>
 
 <p >
-  <img src="https://komarev.com/ghpvc/?username=Ramajana05&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=RamajanaSk&color=9146FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 
